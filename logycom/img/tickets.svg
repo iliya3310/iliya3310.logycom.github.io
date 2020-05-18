@@ -1,0 +1,14 @@
+<svg width="26px" height="19px" viewBox="0 0 26 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                <g id="Личкаб" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                    <g id="Личный-кабинет" transform="translate(-547.000000, -1259.000000)" stroke="#2B5DA8">
+                        <g id="Group-2" transform="translate(547.000000, 1259.000000)">
+                            <path d="M25.05,2.605363 L25.05,0.95 L0.95,0.95 L0.95,18.05 L25.05,18.05 L25.05,16.394637 C24.2198654,16.1862704 23.6076923,15.4143529 23.6076923,14.5 C23.6076923,13.5856471 24.2198654,12.8137296 25.05,12.605363 L25.05,11.394637 C24.2198654,11.1862704 23.6076923,10.4143529 23.6076923,9.5 C23.6076923,8.58564707 24.2198654,7.81372958 25.05,7.605363 L25.05,6.394637 C24.2198654,6.18627042 23.6076923,5.41435293 23.6076923,4.5 C23.6076923,3.58564707 24.2198654,2.81372958 25.05,2.605363 Z" id="Combined-Shape" stroke-width="0.9"></path>
+                            <path d="M3.46153846,4.5 L14.6336554,4.5" id="Line-2" stroke-linecap="square"></path>
+                            <path d="M3.46153846,7.5 L14.6336554,7.5" id="Line-2-Copy" stroke-linecap="square"></path>
+                            <path d="M3.46153846,10.5 L14.6336554,10.5" id="Line-2-Copy-2" stroke-linecap="square"></path>
+                            <path d="M3.45,13.5 L11.3736891,13.5" id="Line-2-Copy-3" stroke-linecap="square"></path>
+                            <path d="M18.5,1 L18.5,18" id="Path-5-Copy" stroke-width="0.9" stroke-dasharray="3,2"></path>
+                        </g>
+                    </g>
+                </g>
+            </svg>
